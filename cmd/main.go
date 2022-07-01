@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"ex.ex/ex/internal/app/apiserver"
-	"ex.ex/ex/internal/config"
+	"github.com/JohnNON/tasker/internal/app/apiserver"
+	"github.com/JohnNON/tasker/internal/config"
 )
 
 func main() {

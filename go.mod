@@ -1,4 +1,4 @@
-module ex.ex/ex
+module github.com/JohnNON/tasker
 
 go 1.18
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"ex.ex/ex/internal/config"
-	"ex.ex/ex/internal/store"
+	"github.com/JohnNON/tasker/internal/config"
+	"github.com/JohnNON/tasker/internal/store"
 )
 
 type server struct {

@@ -1,6 +1,6 @@
 package store
 
-import "ex.ex/ex/internal/model"
+import "github.com/JohnNON/tasker/internal/model"
 
 type Store interface {
 	CreateTask(*model.Task) error

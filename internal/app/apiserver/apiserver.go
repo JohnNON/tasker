@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"ex.ex/ex/internal/config"
-	"ex.ex/ex/internal/store/mongostore"
+	"github.com/JohnNON/tasker/internal/config"
+	"github.com/JohnNON/tasker/internal/store/mongostore"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
